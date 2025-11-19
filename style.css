@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .navText{
-    @apply font-serif text-white me-10 hover:bg-green-600 rounded-md hover:border-2 hover:border-green-900 py-1 px-1;
+    @apply font-serif text-white hover:bg-green-600 rounded-md hover:border-2 hover:border-green-900 py-1 px-1;
 }
